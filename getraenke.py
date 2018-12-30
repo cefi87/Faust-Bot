@@ -29,5 +29,5 @@ getraenke = ['einen Kaffee','eine Limonade','einen Kakao','einen Tee',
                      'ein leckeres Wasser', 'einen Robby Bubble', 'ein Glas warme Milch',
                      'ein Glas Schlamm', 'ein Glas Regenwasser', 'ein halbes Glas Kokosnussmilch',
                      'ein Glas Ingwerwasser','eine Tasse lauwarmen Sencha',
-                     'ein Glass Chai Latte mit Sojamilch','ein Tässchen kalten Sencha'
+                     'ein Glass Chai Latte mit Sojamilch','ein Tässchen kalten Sencha',
                      'einen Cappucino','eine Tasse Cashew-Milch']
